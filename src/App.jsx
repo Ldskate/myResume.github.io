@@ -3,7 +3,7 @@ import "./index.css"
 const App = () => {
   return (
     <div>
-      My Resume
+      My Resume Testing
     </div>
   )
 }
